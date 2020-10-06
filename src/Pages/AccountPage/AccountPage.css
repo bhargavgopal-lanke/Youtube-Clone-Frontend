@@ -1,0 +1,24 @@
+.AccountPageContainer{
+	
+	height: 700px;
+	width: 70%;
+	margin: 0px auto;
+}
+
+.AccountPageContainer .TitleContainer {
+	text-align: center;	
+}
+
+.AccountPageContainer .TitleContainer h1 {
+	font-weight: 500;
+}
+
+.BodyContainer{
+
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+.BodyContainer img{
+	width: 100px;
+}
